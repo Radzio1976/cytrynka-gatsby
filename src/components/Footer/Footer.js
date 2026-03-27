@@ -8,10 +8,7 @@ class Footer extends React.Component {
         <article className={styles.footerContent}>
           <p>
             2019 NOWOCZESNA PRALNIA WODNA Cytrynka | Wszelkie prawa zastrzeżone
-            Projekt:{" "}
-            <a href="mailto: r.tomaszewski@gmail.com">
-              Radosław Tomaszewski tel. 509-998-279
-            </a>
+            Projekt: <a href="mailto: r.tomaszewski@gmail.com">Atma Code</a>
           </p>
         </article>
       </footer>
