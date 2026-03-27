@@ -19,7 +19,7 @@ export default async function handler(req, res) {
       from: data.email,
       to: process.env.EMAIL_USER,
       subject: "Wiadomość z Cytrynki",
-      text: data.message,
+      text: data.text,
     });
 
     console.log("Mail sent:", info.messageId);
