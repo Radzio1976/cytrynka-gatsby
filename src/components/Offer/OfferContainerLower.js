@@ -20,14 +20,12 @@ const OfferContainerLower = () => {
           <h3>cen oraz współpracy</h3>
           <h3>prosimy o kontakt pod numerem telefonu</h3>
           <h3>
-            <span>+48 573 355 294</span>
+            <span>+48 123 456 789</span>
           </h3>
           <h3>
             mailowo:{" "}
             <span>
-              <a href="mailto: biuro@pralniacytrynka.pl">
-                biuro@pralniacytrynka.pl
-              </a>
+              <a href="mailto: biuro@pralniacytrynka.pl">biuro@email.pl</a>
             </span>
           </h3>
           <h3>bądź za pomocą</h3>
