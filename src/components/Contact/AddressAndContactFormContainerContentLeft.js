@@ -13,7 +13,7 @@ const AddressAndContactFormContainerContentLeft = () => {
         <img src={phoneIcon} alt=""></img>
         <div className={styles.addressAndContactFormContainerContentLeftText}>
           <h6>Zadzwoń do nas</h6>
-          <h5>+48 573 355 294</h5>
+          <h5>+48 123 456 789</h5>
         </div>
       </div>
       <div
@@ -34,7 +34,7 @@ const AddressAndContactFormContainerContentLeft = () => {
           className={styles.addressAndContactFormContainerContentLeftEmailText}
         >
           <h6>Email</h6>
-          <h5>biuro@pralniacytrynka.pl</h5>
+          <h5>biuro@email.pl</h5>
         </div>
       </div>
     </section>
