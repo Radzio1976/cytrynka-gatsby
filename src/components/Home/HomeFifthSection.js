@@ -14,11 +14,9 @@ const HomeFifthSection = () => {
           <h5>ul. Kołobrzeska 35</h5>
           <h5>78-111 Ustronie Morskie</h5>
           <h5>
-            <a href="mailto: biuro@pralniacytrynka.pl">
-              biuro@pralniacytrynka.pl
-            </a>
+            <a href="mailto: biuro@pralniacytrynka.pl">biuro@email.pl</a>
           </h5>
-          <h5>telefon: +48 573 355 294</h5>
+          <h5>telefon: +48 123 456 789</h5>
         </div>
       </article>
     </section>
