@@ -1,49 +1,51 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby Minimal Starter
-</h1>
+# Cytrynka – Strona internetowa pralni
 
-## 🚀 Quick start
+Strona internetowa przygotowana dla pralni **Cytrynka** z Ustronia Morskiego. Projekt został wykonany z wykorzystaniem **Gatsby.js**, co pozwoliło uzyskać wysoką wydajność, szybkie ładowanie oraz dobrą optymalizację pod kątem SEO.
 
-1.  **Create a Gatsby site.**
+## 🌐 Live
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+> https://cytrynka-gatsby.vercel.app
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+## 🚀 Technologie
 
-2.  **Start developing.**
+- Gatsby.js
+- React
+- HTML5
+- CSS3
+- JavaScript
+- GraphQL
 
-    Navigate into your new site’s directory and start it up.
+## ✨ Funkcjonalności
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+- responsywna strona internetowa,
+- prezentacja oferty pralni,
+- formularz kontaktowy,
+- optymalizacja wydajności,
+- optymalizacja SEO,
+- szybkie ładowanie dzięki statycznemu generowaniu stron.
 
-3.  **Open the code and start customizing!**
+## ⚙️ Uruchomienie projektu
 
-    Your site is now running at http://localhost:8000!
+```bash
+git clone https://github.com/Radzio1976/cytrynka-gatsby.git
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+cd cytrynka-gatsby
 
-4.  **Learn more**
+npm install
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Tutorials](https://www.gatsbyjs.com/docs/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Guides](https://www.gatsbyjs.com/docs/how-to/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+gatsby develop
+```
 
-## 🚀 Quick start (Netlify)
+Projekt będzie dostępny pod adresem:
 
-Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
+```
+http://localhost:8000
+```
 
-[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-minimal)
+## 👨‍💻 Autor
+
+**Radosław Tomaszewski**
+
+- Portfolio: https://www.atmacode.com
+- GitHub: https://github.com/Radzio1976
+- LinkedIn: https://www.linkedin.com/in/radoslaw-tomaszewski
